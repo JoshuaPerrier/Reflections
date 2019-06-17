@@ -7,15 +7,20 @@ Its inbetween and allows you to see what you are going to add.
 
 
 How can you use the staging area to make sure you have one commit per logical
-change?
+change? 
+You control whats added to commits.
 
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organized? How would branches help? 
+Experimental versions
 
 How do the diagrams help you visualize the branch structure?
+Shows where everything lines up at.
 
 What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+the diagram the way we do? 
+It made everything into the master version. Helps visuallize it.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+ Auto makes it easier but can mess up. Manual allows you to make changes as needed but takes longer.
